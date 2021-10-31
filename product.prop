@@ -93,3 +93,7 @@ persist.device_config.runtime_native.usap_pool_enabled=true
 
 # Set stock DPI
 ro.sf.lcd_density=440
+
+# Elixir Stuff
+ro.elixir.maintainer=Anky
+org.elixir.device=Poco X2
